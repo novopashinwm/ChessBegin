@@ -1,0 +1,10 @@
+D:\Android\ChessBegin\ChessBegin\bin\Debug\ChessBegin.exe
+D:\Android\ChessBegin\ChessBegin\bin\Debug\ChessBegin.pdb
+D:\Android\ChessBegin\ChessBegin\obj\Debug\ChessBegin.csprojResolveAssemblyReference.cache
+D:\Android\ChessBegin\ChessBegin\obj\Debug\ChessBegin.exe
+D:\Android\ChessBegin\ChessBegin\obj\Debug\ChessBegin.pdb
+D:\C#\ChessBegin\ChessBegin\obj\Debug\ChessBegin.exe
+D:\C#\ChessBegin\ChessBegin\obj\Debug\ChessBegin.pdb
+D:\C#\ChessBegin\ChessBegin\bin\Debug\ChessBegin.exe
+D:\C#\ChessBegin\ChessBegin\bin\Debug\ChessBegin.pdb
+D:\C#\ChessBegin\ChessBegin\obj\Debug\ChessBegin.csprojResolveAssemblyReference.cache
